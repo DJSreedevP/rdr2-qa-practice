@@ -1,4 +1,4 @@
-# RDR2 Gameplay Observation & Bug Reporting Practice
+# Red Dead Redemption 2 Gameplay Observation & Bug Reporting Practice
 
 A beginner game QA portfolio project using **Red Dead Redemption 2** as the sample game.
 
