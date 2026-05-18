@@ -3,7 +3,7 @@
 This file contains the same project in a slightly more report-style format.
 
 ## Project title
-Gameplay Observation & Bug Reporting Practice — Red Dead Redemption 2
+Red Dead Redemption 2 Gameplay Observation & Bug Reporting Practice
 
 ## Goal
 Create one simple beginner portfolio sample that demonstrates:
